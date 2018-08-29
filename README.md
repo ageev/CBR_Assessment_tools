@@ -6,3 +6,4 @@ http://www.itsec.pro/search/label/%D0%A1%D0%A2%D0%9E%20%D0%91%D0%A0%20%D0%98%D0%
 
 ## 382-П
 http://www.itsec.pro/search/label/382-%D0%9F
+!!! файл более не актуален в связи с вышедшими изменениями !!! новой версии не будет
